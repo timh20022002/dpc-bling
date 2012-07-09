@@ -1,0 +1,72 @@
+Parsing:  http://www.dpchallenge.com/comment_browse.php?ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=2
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=1
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=3
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=2
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=4
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=5
+Requesting: back: http://www.dpchallenge.com/image.php?IMAGE_ID=921580
+Requesting: back: http://www.dpchallenge.com/image.php?IMAGE_ID=921362
+Requesting: back: http://www.dpchallenge.com/image.php?IMAGE_ID=921757
+Requesting: back: http://www.dpchallenge.com/image.php?IMAGE_ID=921901
+Accepting:  http://www.dpchallenge.com/image.php?IMAGE_ID=921580
+1303
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=6
+Accepting:  http://www.dpchallenge.com/image.php?IMAGE_ID=921901
+1303
+Accepting:  http://www.dpchallenge.com/image.php?IMAGE_ID=921757
+1303
+Accepting:  http://www.dpchallenge.com/image.php?IMAGE_ID=921362
+1303
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=7
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=8
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=9
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=10
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=11
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=12
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=13
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=14
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=15
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=16
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=17
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=18
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=19
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=20
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=21
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=22
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=23
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=24
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=25
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=26
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=27
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=28
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=29
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=30
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=31
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=32
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=33
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=34
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=35
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=36
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=37
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=38
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=39
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=40
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=41
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=42
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=43
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=44
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=45
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=46
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=47
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=48
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=49
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=50
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=51
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=52
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=53
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=54
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=55
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=56
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=57
+Parsing:  http://www.dpchallenge.com/comment_browse.php?HELPFUL=&ORDER=desc&PP=50&TYPE=made&USER_ID=53147&page=58
+Terminate batch job (Y/N)? 
